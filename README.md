@@ -3,7 +3,7 @@
 
 **I no longer maintain this lib, please use other alternatives.**
 
-# find [![Status](https://travis-ci.org/yuanchuan/find.svg?branch=master)](https://travis-ci.org/yuanchuan/find "See test builds")
+# AirFind [![Status](https://travis-ci.org/yuanchuan/find.svg?branch=master)](https://travis-ci.org/yuanchuan/find "See test builds")
 
 Find files or directories by name.
 
@@ -18,7 +18,7 @@ $ npm install --save find
 
 ## Examples
 
-Find all files in current directory.
+AirFind all files in current directory.
 
 ```javascript
 var find = require('find');
